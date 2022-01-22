@@ -1,2 +1,3 @@
 # snake-game-js
-Created with CodeSandbox
+
+Snake game build with React Js.
