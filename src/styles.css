@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.points {
+  color: green;
+  font-weight: bold;
+  padding: 1rem;
+}
